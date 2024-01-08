@@ -31,7 +31,7 @@ public class GoodsController {
     //test
     @GetMapping("/test")
     public String test(){
-        return "Hello, this is a test message of Springboot";
+        return "Hello, this is a test message of Springboot deployed on github actions";
     }
 
     //新增
