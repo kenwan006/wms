@@ -29,3 +29,13 @@ jobs:
         run: |
           # Add deployment steps here
           # e.g., deploy to a server or cloud platform
+
+      - name: Build and Push Docker Image
+        uses: mr-smithers-excellent/docker-build-push@v6
+        with:
+          image: kenwan006/wms_app
+          registry: docker.io
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
+ 
+          

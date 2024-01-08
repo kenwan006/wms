@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d53d0122-0181-47d4-8de4-548e6a6a3c9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/cicd.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/cicd.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liush/wms/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liush/wms/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liush/wms/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liush/wms/controller/GoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/liush/wms/WmsApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/liush/wms/WmsApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704347497576</updated>
-      <workItem from="1704347498607" duration="6808000" />
+      <workItem from="1704347498607" duration="8513000" />
     </task>
     <servers />
   </component>
