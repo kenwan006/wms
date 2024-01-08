@@ -1,0 +1,2 @@
+- Run the springboot for the backend
+- Run the vue for the frontend ` npm run serve`
